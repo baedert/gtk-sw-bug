@@ -1,0 +1,5 @@
+<gresources>
+  <gresource prefix="/org/baedert/test">
+    <file compressed="true" preprocess="xml-stripblanks">foo-scrolled.ui</file>
+  </gresource>
+</gresources>
